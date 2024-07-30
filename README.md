@@ -300,6 +300,9 @@ Go to `/src/index.html` and put your information, there are 5 sections:
     <a href="#!" target="_blank">
       <i class="fa fa-github fa-inverse"></i>
     </a>
+    <a href="#!" target="_blank">
+      <i class="fa fa-discord fa-inverse"></i>
+    </a>
   </div>
   ...
 </footer>

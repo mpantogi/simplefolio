@@ -39,6 +39,7 @@
   display: flex;
   flex-direction: row;
   justify-content: center;
+  align-items: first baseline;
 
   a {
     display: flex;
@@ -54,6 +55,10 @@
     &:hover {
       transform: translateY(-2px);
     }
+  }
+  span {
+    font-size: 1rem;
+    margin-left: 5px;
   }
 }
 
